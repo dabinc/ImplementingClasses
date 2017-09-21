@@ -1076,7 +1076,7 @@ def test_halfway_to():
 
     """
     # ------------------------------------------------------------------
-    # TOD O: 13.  Follow the same instructions as in T ODO 3 above,
+    # TOD O: 13.  Follow the same instructions as in T  ODO 3 above,
     #    but for the  HALFWAY_TO  method specified above.
     # ------------------------------------------------------------------
     print()
